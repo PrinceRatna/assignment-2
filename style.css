@@ -111,13 +111,17 @@
      height: 100%;
  }
  /*------------------- Main----------- */
- 
+ main{
+
+    margin-top: 70px;
+ }
 .top-section{
     background-color: #ffffff;
-    margin-top:70px;
-    display:flex;
+    margin:auto;
+    text-align: center;
+    
     max-width: 1050px;
-    justify-content: center;
+    
     
 }
 .player-container{
